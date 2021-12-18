@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.png</file>
+        <file>map1.png</file>
+        <file>ski1.png</file>
+        <file>ski2.png</file>
+        <file>ski.png</file>
+        <file>drone2.png</file>
+        <file>cycling1.png</file>
+        <file>drone1.png</file>
+        <file>drone3.png</file>
+        <file>drone4.png</file>
+        <file>video_image1.png</file>
+        <file>OIP.jpg</file>
+    </qresource>
+</RCC>
